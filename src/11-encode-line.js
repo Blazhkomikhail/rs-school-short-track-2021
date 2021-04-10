@@ -8,7 +8,7 @@
  * For aabbbc should return 2a3bc
  *
  */
-function encodeLine(/*str*/) {
+function encodeLine(/* str */) {
   throw new Error('Not implemented');
 
   // let storage = {};
